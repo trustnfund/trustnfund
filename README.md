@@ -1,4 +1,4 @@
-![ezgif com-gif-maker (6)](https://www.trustnfund.com/trustnfund-meta.png)
+![ezgif com-gif-maker (6)](https://www.trustnfund.com/trustnfund-cover.png)
 
 
 
