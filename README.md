@@ -1,16 +1,20 @@
-## Hi there 👋
+![ezgif com-gif-maker (6)](https://www.trustnfund.com/trustnfund-meta.png)
 
-<!--
-**trustnfund/trustnfund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# About Us
+TrustnFund is a decentralized crowdfunding & fundraising platform building on blockchain, giving backers DAO-powered control over fund releases to minimize risk and ensure transparency.
+
+# Our Mission
+ 
+
+# Our Vision
+
+# Get in Touch
+🔗 [Website](https://www.trustnfund.com/)
+
+🔗 [Linkedin](https://www.linkedin.com/company/trustnfund)
+
+# Our Quote
+> _Helping people._
