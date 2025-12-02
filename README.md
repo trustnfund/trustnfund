@@ -18,4 +18,4 @@ To become the leading fundraising platform, enabling individuals and organizatio
 🔗 [Linkedin](https://www.linkedin.com/company/trustnfund)
 
 # Our Quote
-> _Helping people build the future with **Trusted and Funded.**_
+> _Help humanity, save the world 💚
