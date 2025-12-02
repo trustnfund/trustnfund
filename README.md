@@ -18,4 +18,4 @@ To become the leading fundraising platform, enabling individuals and organizatio
 🔗 [Linkedin](https://www.linkedin.com/company/trustnfund)
 
 # Our Quote
-> _Help humanity, save the world 💚
+> Help humanity, save the world 💚
