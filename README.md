@@ -7,10 +7,10 @@
 TrustnFund is a crowdfunding and fundraising platform, empowering people to help people.
 
 # Our Mission
-To revolutionize crowdfunding by providing a secure, and transparent platform that fosters trust between project creators and backers. We aim to reduce fraud, increase accountability, and ensure funds are used as intended.
+To help people help each other by providing a platform to raise money for personal, business, and charitable causes, turning compassion into action and creating a "giving layer of the internet" where communities support one another for life events, emergencies, or causes they care about. They aim to empower individuals and nonprofits with tools to share their stories and harness collective generosity to meet needs and create lasting impact.
 
 # Our Vision
-To become the leading fundraising platform, enabling individuals and organizations to bring their ideas to life while maintaining trust, security, and efficiency in financial contributions.
+To be the world's most helpful place by creating the internet's giving layer, empowering individuals and organizations to turn compassion into action for personal, business, and charitable causes, ultimately making it easier for people to find causes to support and help each other through technology. They aim to transform how people give by connecting generous supporters with urgent needs, fostering a global community focused on making a lasting difference in people's lives. 
 
 # Get in Touch
 🔗 [Website](https://www.trustnfund.com/)
